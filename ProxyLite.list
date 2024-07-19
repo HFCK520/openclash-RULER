@@ -2,9 +2,19 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,gg5.co
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,airav
+DOMAIN-KEYWORD,paycalling
+DOMAIN-KEYWORD,javdb
+DOMAIN-KEYWORD,mgstage
+DOMAIN-KEYWORD,xcity
+DOMAIN-KEYWORD,7mmtv
+DOMAIN-KEYWORD,hdouban
+DOMAIN-KEYWORD,mdpjzip
+DOMAIN-KEYWORD,lulubar
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
